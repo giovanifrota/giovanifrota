@@ -1,6 +1,10 @@
 ### Hi there 👋
 Eu Sou o Giovani Frota, sou um programador front end, atualmente estou aprendendo e criando projetos com:
 <br>
+Cursando Analise e desenvolvimento de Sistemas na <a href="https://www.uninove.br">Uninove</a>
+<br>
+Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+<br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 
